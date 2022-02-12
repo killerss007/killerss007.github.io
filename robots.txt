@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://killerss007.github.io/sitemap.xml
+Sitemap: https://killerss007.github.io/baidusitemap.xml
